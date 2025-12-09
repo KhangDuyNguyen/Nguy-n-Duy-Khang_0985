@@ -1,0 +1,30 @@
+M:\Lab02\Lab02-02\bin\Debug\Lab02-02.exe.config
+M:\Lab02\Lab02-02\bin\Debug\Lab02-02.exe
+M:\Lab02\Lab02-02\bin\Debug\Lab02-02.pdb
+M:\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+M:\Lab02\Lab02-02\obj\Debug\Lab02_02.frm_QLSV.resources
+M:\Lab02\Lab02-02\obj\Debug\Lab02_02.Properties.Resources.resources
+M:\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+M:\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
+M:\Lab02\Lab02-02\obj\Debug\Lab02-02.exe
+M:\Lab02\Lab02-02\obj\Debug\Lab02-02.pdb
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\bin\Debug\Lab02-02.exe.config
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\bin\Debug\Lab02-02.exe
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\bin\Debug\Lab02-02.pdb
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02_02.frm_QLSV.resources
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02_02.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.exe
+C:\Users\Administrator\Downloads\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.pdb
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\bin\Debug\Lab02-02.exe.config
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\bin\Debug\Lab02-02.exe
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\bin\Debug\Lab02-02.pdb
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02_02.frm_QLSV.resources
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02_02.Properties.Resources.resources
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.exe
+C:\Users\Khang Nguyen Duy\Downloads\Lab02-20251209T154032Z-3-001\Lab02\Lab02\Lab02-02\obj\Debug\Lab02-02.pdb
